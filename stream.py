@@ -4,10 +4,10 @@ import numpy as np
 import time
 
  
-st.title("5 Minutes Engineering(Title)")
-st.header("5 Minutes Engineering(Header)")
-st.subheader("5 Minutes Engineering(Sub-Header)")
-st.write("5 Minutes Engineering(Text)")
+st.title("Shrvan singh thakur(Title)")
+st.header("presenting you a survey of temperature(Header)")
+st.subheader("Degrees in farhenhiet(Sub-Header)")
+st.write("taught to me by 5 minutes engineering(Text)")
 st.markdown("5 Minutes Engineering(Markdown)")
 st.caption("5 Minutes Engineering(Caption)")
 
